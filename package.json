@@ -1,0 +1,24 @@
+{
+  "name": "semana2",
+  "version": "1.0.0",
+  "description": "Actividad de la semana 2 de arquitectura de servidores ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmarmijosa/arquitectura-servidores-semana2.git"
+  },
+  "keywords": [
+    "#express",
+    "#api-rest",
+    "#mongoose"
+  ],
+  "author": "Danny Armijos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmarmijosa/arquitectura-servidores-semana2/issues"
+  },
+  "homepage": "https://github.com/dmarmijosa/arquitectura-servidores-semana2#readme"
+}
