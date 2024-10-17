@@ -169,6 +169,12 @@ La colección de Postman se encuentra en la carpeta `postman/PSEMANA 2 ARQUITECT
 3. Selecciona el archivo `SEMANA 2 ARQUITECTURA SERVIDORES.postman_collection` desde la carpeta `postman`.
 4. La colección aparecerá en tu lista de colecciones.
 
+## Demostración en video
+
+Puedes ver una demostración del funcionamiento de la API y una explicación del código en el siguiente enlace:
+
+[Enlace al video de demostración](https://youtu.be/8lMyJxmie4w)
+
 ## Autor
 
 - **Danny Armijos** - [Danny Armijos](https://github.com/dmarmijosa)
